@@ -10,7 +10,7 @@ import java.time.Period;
 public class Student {
     @Id
     @SequenceGenerator(
-            name = "Student_sequence",
+            name = "Student_suchduiahvcdvsevequence",
             sequenceName = "Student_sequence",
             allocationSize = 1
     )
